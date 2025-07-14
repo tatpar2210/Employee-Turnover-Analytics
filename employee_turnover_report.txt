@@ -1,0 +1,35 @@
+
+EMPLOYEE TURNOVER ANALYTICS REPORT
+==================================
+
+Executive Summary:
+- Total Employees Analyzed: 14,999
+- Overall Turnover Rate: 23.81%
+- Key Factors Identified: Satisfaction Level, Work Hours, Evaluation Score
+
+Data Quality Assessment:
+✓ No missing values found
+✓ No duplicate records
+✓ Data types appropriate for analysis
+
+Key Findings:
+1. Employees with low satisfaction (< 0.5) are 55.6% more likely to leave
+2. Overworked employees (> 250 hours/month) show higher turnover rates
+3. Long-tenured employees (> 5 years) have different retention needs
+4. High performers need special attention to prevent turnover
+
+Model Performance:
+- Best Model: Random Forest
+- F1-Score: 0.9733
+- Accuracy: 0.9873
+
+Recommendations:
+1. Implement satisfaction monitoring programs
+2. Address workload management issues
+3. Develop career advancement paths
+4. Review compensation structures
+5. Create department-specific retention strategies
+
+This analysis provides actionable insights for reducing employee turnover
+and improving organizational retention strategies.
+        
