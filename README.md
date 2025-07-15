@@ -1,5 +1,4 @@
-# Employee Turnover Analytics - Course-end Project 3
-
+# Employee Turnover Analytics
 ## Project Overview
 
 This project analyzes employee turnover data for Portobello Tech, an app innovator company. The analysis helps identify patterns in work style and factors contributing to employee turnover, enabling the HR department to develop effective retention strategies.
